@@ -144,13 +144,13 @@ h1 {
   }
 
   .guess {
-    width: 26rem;
+    width: 22rem;
   }
 
   .left {
     width: 70%;
   }
-  .right {
-    margin-left: 1rem;
+  main {
+    gap: 2rem;
   }
 }
