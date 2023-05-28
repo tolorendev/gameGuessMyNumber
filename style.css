@@ -118,13 +118,13 @@ h1 {
   margin-bottom: 2rem;
 }
 
-@media (max-width: 800px) {
+@media (max-width: 50rem) {
   html {
     font-size: 50%;
   }
 }
 
-@media (max-width: 576px) {
+@media (max-width: 36rem) {
   html {
     font-size: 40%;
   }
